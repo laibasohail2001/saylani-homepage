@@ -1,0 +1,464 @@
+.main {
+    background-color: royalblue;
+    color: white;
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+.home {
+    background-color: royalblue;
+    color: white;
+    border-radius: 20px;
+    text-align: center;
+    width: 80px;
+
+}
+.dropdown {
+    background-color: white;
+    color: black;
+    border-radius: 20px;
+    text-align: center;
+    width: 80px;
+
+
+}
+.dropdown:hover {
+    background-color: royalblue;
+    color: white;
+}
+.dropdown:hover .dropdown-menu {
+    display: block;
+}
+.dropdown-item:hover {
+       background-color: royalblue;
+       color: white;
+}
+.down1 {
+    background-color: white;
+    color: black;
+    border-radius: 20px;
+    text-align: center;
+    width: 140px;
+
+
+}
+.down1:hover {
+    background-color: royalblue;
+    color: white;
+}
+.down1:hover .menu1 {
+    display: block;
+}
+.item1:hover {
+       background-color: royalblue;
+       color: white;
+}
+.down2 {
+    background-color: white;
+    color: black;
+    border-radius: 20px;
+    text-align: center;
+    width: 140px;
+
+
+}
+.down2:hover {
+    background-color: royalblue;
+    color: white;
+}
+.down2:hover .menu2 {
+    display: block;
+}
+.item2:hover {
+       background-color: royalblue;
+       color: white;
+}
+.media {
+    background-color: white;
+    color: black;
+    border-radius: 20px;
+    text-align: center;
+    width: 80px;
+
+}
+.media:hover {
+    background-color: royalblue;
+    color: white;
+    text-align: center;
+}
+.news {
+    background-color: white;
+    color: black;
+    border-radius: 20px;
+    text-align: center;
+    width: 80px;
+
+}
+.news:hover {
+    background-color: royalblue;
+    color: white;
+    text-align: center;
+}
+.down3 {
+    background-color: white;
+    color: black;
+    border-radius: 20px;
+    text-align: center;
+    width: 140px;
+
+
+}
+.down3:hover {
+    background-color: royalblue;
+    color: white;
+}
+.down3:hover .menu3 {
+    display: block;
+}
+.item3:hover {
+       background-color: royalblue;
+       color: white;
+}
+.alert {
+    background-color: royalblue;
+    margin-top: 20px;
+    height: 40px;
+}
+.heading {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 50px;
+}
+.logo1 {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    margin-left: -25px;
+    margin-top: -25px;
+    padding: 0 5px;
+    height: 50px;
+    width: 50px;
+    background: #fff url(images/logo\ 2.png) no-repeat 50% 50%;
+  }
+  
+.line1 {
+    position: relative;
+    overflow: visible;
+    height: 1px;
+    background-color: #ddd;
+    border: 1px solid #427900;
+    width: 30%;
+    margin: auto;
+    padding: 0px;
+
+  }
+.paragraph {
+    text-align: left;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+
+
+ 
+/* .dastarkhuwan {
+   background-color: royalblue;
+   text-align: left;
+   border-radius: 10px;
+   
+   width: 200px;
+   height: auto;
+   text-align: center;
+   
+} */
+/* .dastarkhuwan1 {
+    text-align: center;
+} */
+
+.dastarkhuwan2 {
+    font-size: 40px;
+    text-align: center;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.dastarkhuwan3 {
+    color: white;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+
+}
+
+
+/* .adoption1{
+   display: block;
+
+} */
+.adoption2 {
+    font-size: 40px;
+    text-align: center;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.adoption3 {
+    color: white;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+
+} 
+.medical1 {
+    display: block;
+}
+.medical2 {
+    font-size: 40px;
+    text-align: center;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.medical3 {
+    color: white;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+
+} 
+.education2 {
+    font-size: 40px;
+    text-align: center;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.education3 {
+    color: white;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+
+} 
+.card {
+    height: 100px;
+    width: 300px;
+    box-shadow: grey;
+    border: 1px solid black;
+}
+.image1 {
+    height: 10px;
+    width: 10px;
+}
+.card {
+    height: 200px;
+    border: 1px solid gainsboro;
+    box-shadow: 3px grey;
+}
+.image {
+    margin-left: 100px;
+    padding: 10px;
+
+}
+.card-title {
+    color: royalblue;
+}
+.card4 {
+    margin-top: 50px;
+    margin-left: -15px;
+
+}
+.main1   {
+    background-color: ghostwhite;
+}
+.missions1 {
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    float: left;
+    margin-top: 20px;
+}
+.deep-purple {
+    background-color: #427900;
+    height: 1px;
+    
+}
+.heart {
+    border: 1px solid white;
+    width: 250px;
+    height: 50px;
+
+    
+
+}
+.heart1 {
+    font-size: 20px;
+}
+
+.heart2 {
+    display: inline-block;
+    font-size: 20px;
+}
+    
+.housing {
+    border: 1px solid white;
+    width: 250px;
+    height: 50px;
+    margin-left: 2px;
+    
+   
+
+}
+.housing1 {
+    font-size: 20px;
+}
+
+.housing2 {
+    display: inline-block;
+    font-size: 20px;
+}
+    
+.it {
+    border: 1px solid white;
+    width: 250px;
+    height: 50px;
+   
+    
+   
+
+}
+.it1 {
+    font-size: 20px;
+}
+
+.it2 {
+    display: inline-block;
+    font-size: 20px;
+}
+.tharparkar {
+    border: 1px solid white;
+    width: 250px;
+    height: 50px;
+    margin-left: 2px;
+    
+   
+
+}
+.tharparkar1 {
+    font-size: 20px;
+}
+
+.tharparkar2 {
+    display: inline-block;
+    font-size: 20px;
+}
+.events1 {
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+  
+}
+.deep-purple {
+    background-color: #427900;
+    height: 1px;
+    
+}
+.gallery {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 50px;
+}
+.rashan2 {
+    height: 200px;
+    width: 250px;
+    border: 2px solid grey;
+    margin-top: 50px;
+}
+.food2 {
+    height: 200px;
+    width: 250px;
+    border: 2px solid grey;
+    margin-top: 50px;
+
+}
+
+.footer{
+    background-color: #333333;
+    color: white;
+}
+.footer-copyright{
+    background-color: #316DC3;
+}
+.material-icons{
+    color: #427900;
+}
+ul.social-network {
+    list-style: none;
+    display: inline;
+    margin-left: -60px !important;
+    padding: 0;
+  
+  }
+  
+  ul.social-network li {
+    display: inline;
+    margin: 0 5px;
+  }
+  /* footer social icons */
+
+.social-network a.icoFacebook:hover {
+    background-color: #3B5998;
+  }
+  
+  .social-network a.icoLinkedin:hover {
+    background-color: #007bb7;
+  }
+  
+  .social-network a.icoFacebook i,
+  .social-network a.icoLinkedin:hover i {
+    color: #fff;
+  } 
+  .social-network a.icotwitter i,
+  .social-network a.icoLinkedin:hover i {
+    color: #fff;
+  } 
+  .social-network a.icoinstagram i,
+  .social-network a.icoLinkedin:hover i {
+    color: #fff;
+  } 
+  .social-network a.icoyoutube i,
+  .social-network a.icoLinkedin:hover i {
+    color: #fff;
+  } 
+  
+  .social-network a.socialIcon:hover,
+  .socialHoverClass {
+    color: #44BCDD;
+  }
+  
+  .social-circle li a {
+    display: inline-block;
+    position: relative;
+    margin: 0 auto 0 auto;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    text-align: center;
+    width: 30px;
+    height: 30px;
+    font-size: 15px;
+  }
+  
+  .social-circle li i {
+    margin: 0;
+    line-height: 30px;
+    text-align: center;
+  }
+  .social-network a {
+    background-color: #316DC3;
+    
+  }
+  .back-to-top {
+    position: fixed;
+    bottom: 25px;
+    right: 25px;
+    display: none;
+}
+
+  
+  
+
+    
